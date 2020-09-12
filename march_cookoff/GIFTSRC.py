@@ -24,3 +24,4 @@ for _ in range(int(input())):
                 flag=True
     print(ans1,end=" ")
     print(ans2)
+    #changes made to code
